@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Site title</title>
+		<link>http://localhost:1313/futuresalad/blog.github.io/posts/</link>
+		<description>Recent content in Posts on Site title</description>
+		<generator>Hugo</generator>
+		<language>de-at</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 14:48:00 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/futuresalad/blog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>This a post!</title>
+				<link>http://localhost:1313/futuresalad/blog.github.io/posts/mypost/</link>
+				<pubDate>Mon, 26 Oct 2026 14:48:00 +0200</pubDate>
+				<guid>http://localhost:1313/futuresalad/blog.github.io/posts/mypost/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. Integer lacinia. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Duis condimentum augue id magna semper rutrum. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Donec quis nibh at felis congue commodo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam in lorem sit amet leo accumsan lacinia. Duis viverra diam non justo. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Nunc dapibus tortor vel mi dapibus sollicitudin. Quisque porta. Nulla quis diam. Aliquam id dolor. Cras pede libero, dapibus nec, pretium sit amet, tempor quis. Aliquam erat volutpat.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
